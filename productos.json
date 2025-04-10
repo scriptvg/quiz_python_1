@@ -1,0 +1,71 @@
+[
+    {
+        "nombre": "Zapatillas Nike Air Max",
+        "precio": 10000,
+        "cantidad": 10,
+        "marca": "Nike",
+        "modelo": "Air Max",
+        "talla": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            44
+        ],
+        "colores": [
+            "Negro",
+            "Blanco",
+            "Rojo"
+        ],
+        "disponibilidad": true,
+        "descuento": 10,
+        "codigo_producto": "NKAM12345"
+    },
+    {
+        "nombre": "Zapatillas Adidas Ultraboost",
+        "precio": 79999,
+        "cantidad": 15,
+        "marca": "Adidas",
+        "modelo": "Ultraboost",
+        "talla": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ],
+        "colores": [
+            "Negro",
+            "Gris",
+            "Azul"
+        ],
+        "disponibilidad": true,
+        "descuento": 15,
+        "codigo_producto": "ADUB67890"
+    },
+    {
+        "nombre": "Zapatillas Puma RS-X",
+        "precio": 69999,
+        "cantidad": 8,
+        "marca": "Puma",
+        "modelo": "RS-X",
+        "talla": [
+            39,
+            40,
+            41,
+            42,
+            43
+        ],
+        "colores": [
+            "Blanco",
+            "Verde",
+            "Naranja"
+        ],
+        "disponibilidad": true,
+        "descuento": 5,
+        "codigo_producto": "PMRS54321"
+    }
+]
